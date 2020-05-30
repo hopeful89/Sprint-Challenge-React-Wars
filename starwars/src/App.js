@@ -18,6 +18,7 @@ width: 100%;
 const ButtonContainer = styled.div`
   width: 100%;
   height: 2vh;
+  margin: 2vh;
   display: flex;
   align-items: flex-start;
   justify-content: space-around;
@@ -25,6 +26,7 @@ const ButtonContainer = styled.div`
 
 const CardContainer = styled.div`
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   
 `;
