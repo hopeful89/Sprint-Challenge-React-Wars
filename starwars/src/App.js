@@ -20,7 +20,7 @@ const ButtonContainer = styled.div`
   height: 2vh;
   display: flex;
   align-items: flex-start;
-  justify-content: center;
+  justify-content: space-around;
 `;
 
 const CardContainer = styled.div`
